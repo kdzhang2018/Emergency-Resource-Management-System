@@ -1,0 +1,2 @@
+PHP files containing SQL are in the folder MyApp.
+SQL files that are used to initialize the database are in the folder Schema.
